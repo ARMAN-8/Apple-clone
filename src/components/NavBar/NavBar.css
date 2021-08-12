@@ -1,0 +1,14 @@
+.nav {
+    background: rgba(0,0,0,0.8);
+    width: 100%;
+    position: fixed;
+    /*margin-bottom: 50px;*/
+}
+
+.appleLogo {
+    color: #ebebeb;
+}
+
+.appleLogo:hover {
+    color: #ffffff;
+}
